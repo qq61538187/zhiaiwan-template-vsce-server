@@ -1,6 +1,6 @@
 import * as path from "node:path";
 
-export const OUTPUT_CHANNEL_NAME = "Zhiaiwan Template Server";
+export const OUTPUT_CHANNEL_NAME = "Template Server";
 export const START_LOCK_FILE_NAME = "server.start.lock";
 export const WORKER_ENTRY = path.join("server", "worker.js");
 export const SERVICE_LOG_RELATIVE_PATH = path.join("logs", "worker.log");

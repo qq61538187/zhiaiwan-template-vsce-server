@@ -37,9 +37,9 @@ GET /api/health
 ## 配置项
 
 - `nodeServerExtension.port`：服务端口，默认 `3510`
-- `TEMPLATE_SERVER_LOG_LEVEL`：日志级别（`info`/`warn`/`error`）
-- `TEMPLATE_SERVER_STARTUP_TIMEOUT_MS`：启动等待超时，默认 `8000`
-- `TEMPLATE_SERVER_STARTUP_INTERVAL_MS`：启动轮询间隔，默认 `250`
+- `VSCE_SERVER_LOG_LEVEL`：日志级别（`info`/`warn`/`error`）
+- `VSCE_SERVER_STARTUP_TIMEOUT_MS`：启动等待超时，默认 `8000`
+- `VSCE_SERVER_STARTUP_INTERVAL_MS`：启动轮询间隔，默认 `250`
 
 ## 项目结构
 

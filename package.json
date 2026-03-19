@@ -1,6 +1,6 @@
 {
   "name": "zhiaiwan-template-vsce-server",
-  "displayName": "Zhiaiwan Template Server",
+  "displayName": "Template Server",
   "description": "VSCode/Cursor 扩展基础骨架，内置可复用的 Node 服务。",
   "version": "0.1.0",
   "publisher": "local",

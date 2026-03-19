@@ -15,9 +15,9 @@
 
 - `nodeServerExtension.port`: extension setting for service port (default `3510`)
 - Optional environment variables:
-  - `TEMPLATE_SERVER_LOG_LEVEL`: `info` / `warn` / `error`
-  - `TEMPLATE_SERVER_STARTUP_TIMEOUT_MS`
-  - `TEMPLATE_SERVER_STARTUP_INTERVAL_MS`
+  - `VSCE_SERVER_LOG_LEVEL`: `info` / `warn` / `error`
+  - `VSCE_SERVER_STARTUP_TIMEOUT_MS`
+  - `VSCE_SERVER_STARTUP_INTERVAL_MS`
 
 ## Development
 
