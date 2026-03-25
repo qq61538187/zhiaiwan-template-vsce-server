@@ -9,3 +9,11 @@ package-lock.json
 pnpm-lock.yaml
 **/*.map
 README.md
+tests/**
+examples/**
+.github/**
+.husky/**
+.changeset/**
+eslint.config.*
+commitlint.config.*
+.prettier*
